@@ -208,9 +208,9 @@ public class Items extends Hotel implements TaxAndDiscounts{
 		System.out.println("Item Name :\t" + vegfoodItems.get(itemfromuser));
 			
 		System.out.println("Quantity Ordered \t" + quantityfromuser);
-		System.out.println("Total price\t"+ totalprice);
-		System.out.println("Tax\t" + tax);
-		System.out.println("Final Amount:\t" + finalamount);
+		System.out.println("Total price\t :"+ totalprice);
+		System.out.println("Tax\t :  " + tax);
+		System.out.println("Final Amount :\t" + finalamount);
 		
 		
 	}
